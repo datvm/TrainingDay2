@@ -7,6 +7,8 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "TrainingDay2.Database", "Tr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingDay2.Api", "TrainingDay2.Api\TrainingDay2.Api.csproj", "{A022BAE8-D173-42C4-9C64-27C3575D17CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingDay2.Test", "TrainingDay2.Test\TrainingDay2.Test.csproj", "{55DEA0C1-65BA-4257-8EED-9D58B77C2B2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{A022BAE8-D173-42C4-9C64-27C3575D17CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A022BAE8-D173-42C4-9C64-27C3575D17CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A022BAE8-D173-42C4-9C64-27C3575D17CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55DEA0C1-65BA-4257-8EED-9D58B77C2B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55DEA0C1-65BA-4257-8EED-9D58B77C2B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55DEA0C1-65BA-4257-8EED-9D58B77C2B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55DEA0C1-65BA-4257-8EED-9D58B77C2B2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
